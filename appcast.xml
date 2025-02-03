@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:sparkle="">
+    <channel>
+        <title>App Updates</title>
+        <link>https://example.com</link>
+        <description>Update feed</description>
+        <item>
+            <title>Version 2.0.0</title>
+            <pubDate>Sat, 01 Feb 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://example.com/yourapp.apk" length="12345678" type="application/octet-stream" />
+            <sparkle:version>2.0.0</sparkle:version>
+            <sparkle:minimumSystemVersion>10.0.0</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
