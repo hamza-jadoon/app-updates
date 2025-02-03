@@ -4,7 +4,7 @@
       "version": "1.0.2",
       "notes": "Bug fixes and performance improvements.",
       "minAppVersion": "1.0.0",
-      "url": "https://your-server.com/app.apk"
+      "url": "https://github.com/hamza-jadoon/app-updates/blob/main/appcast.json"
     }
   ]
 }
