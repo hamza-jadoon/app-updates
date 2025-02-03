@@ -7,7 +7,7 @@
         <item>
             <title>Version 2.0.0</title>
             <pubDate>Sat, 01 Feb 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://example.com/yourapp.apk" length="12345678" type="application/octet-stream" />
+            <enclosure url="https://github.com/hamza-jadoon/app-updates/raw/main/updates/yourapp.ipa" length="12345678" type="application/octet-stream" />
             <sparkle:version>2.0.0</sparkle:version>
             <sparkle:minimumSystemVersion>10.0.0</sparkle:minimumSystemVersion>
         </item>
